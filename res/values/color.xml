@@ -1,0 +1,29 @@
+
+    <resources>
+        <color name="white">#ffffff</color>
+        <color name="yellow">#FFFF00</color>
+        <color name="pink">#FFEFDB</color>
+        <color name="red">#FF0000</color>
+        <color name="orange">#FFA500</color>
+        <color name="purple">#EE00EE</color>
+        <color name="brown">#A0522D</color>
+        <color name="light_green">#4EEE94</color>
+        <color name="green">#32CD32</color>
+        <color name="dark_blue">#000080</color>
+        <color name="light_blue">#00EEEE</color>
+        <color name="black">#000000</color>
+        <color name="midnight">#27408B</color>
+        <color name="babyblue">#4F94CD</color>
+        <color name="title_text_color">#fbf9f5</color>
+        <color name="secondary_title_text_color">#285a74</color>
+        <color name="gray">#e9e9e9</color>
+        <color name="tab_selected_color">#b02323</color>
+        <color name="widget_font_color_red">#a62828</color>
+        <color name="widget_font_color_dimmed">#8f8c8c</color>
+        <color name="widget_font_color_blue">#2b95c0</color>
+        <color name="widget_font_color_gray">#505050</color>
+        <color name="transparent">#00000000</color>
+        <color name="divider_gray">#19000000</color>
+        <color name="bg">#f0efeb</color>
+        
+    </resources>
